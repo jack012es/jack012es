@@ -27,7 +27,7 @@ I'm a full-stack developer, I like to learn new technologies and work with agile
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Angular personal roject]()  
+- 🔭 I’m currently working on [Angular personal project]()  
   
 
 - 🌱 I’m currently learning Jira software and conflucence  

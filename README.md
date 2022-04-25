@@ -103,6 +103,3 @@ I'm a full-stack developer, I like to learn new technologies and work with agile
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

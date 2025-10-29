@@ -24,22 +24,6 @@ I'm a full-stack developer, I like to learn new technologies and work with agile
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Angular personal project]()  
-  
-
-- 🌱 I’m currently learning Jira software and conflucence  
-  
-
-- ❓ Ask me about anything related to Angular and Laravel  
-  
-
-- ⚡ Fun fact: I use the brightness at 20% all day  
-
-
-</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />

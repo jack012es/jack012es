@@ -14,17 +14,9 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Glad to see you here!  
 I'm a full-stack developer, I like to learn new technologies and work with agile methodologies.  
   
-
-<br/>  
-
-
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  

@@ -22,11 +22,6 @@ I'm a full-stack developer, I like to learn new technologies and work with agile
 </div>  
 
 
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
